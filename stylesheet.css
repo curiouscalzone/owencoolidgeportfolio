@@ -1,0 +1,42 @@
+body{
+	font-family: courier New;
+	color:#B89F65;
+}
+.topRow{
+	height:50px;
+}
+.title{
+	font-size:18pt;
+}
+
+.menu{
+	font-size:10pt;
+}
+
+.content{
+	font-size:10pt;
+}
+
+.top-buffer { margin-top:25px; }
+
+
+
+/* unvisited link */
+a:link {
+    color: #B89F65;
+}
+
+/* visited link */
+a:visited {
+  color: #B89F65;
+}
+
+/* mouse over link */
+a:hover {
+    color: #D0BAAA;
+}
+
+/* selected link */
+a:active {
+   color: #D0BAAA;
+}
